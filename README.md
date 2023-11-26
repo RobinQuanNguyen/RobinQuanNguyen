@@ -39,7 +39,11 @@ I'm interested in cloud ☁️ or full-stack development roles. If you're inters
 </div>
 
 ###😂 Random Dev Meme
-![Quote](https://github-readme-quotes.herokuapp.com/quote)
+## Random Quote
+
+> "![Quote](https://img.shields.io/endpoint?url=https://quotableapi.now.sh/random)"
+
+[Get another random quote](https://quotableapi.now.sh/random)
 <!--
 **RobinQuanNguyen/RobinQuanNguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
