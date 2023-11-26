@@ -5,8 +5,7 @@ I derive fulfillment from the pursuit of solving intricate technical problems, c
 
 Throughout my academic journey, I have assumed diverse leadership responsibilities, serving as the project team manager for school initiatives, acting as a class representative, and participating as a guild member at the university level.
 
-I'm interested in cloud ☁️ or full-stack development roles. If you're intersted, feel free to get in touch with me via my email at 
-<a href="mailto:nguyenbaoquan2004@gmail.com">nguyenbaoquan2004@gmail.com</a>.
+I'm interested in cloud ☁️ or full-stack development roles. If you're intersted, feel free to get in touch with me via my email at <a href="mailto:nguyenbaoquan2004@gmail.com">nguyenbaoquan2004@gmail.com</a>.
 
 <!--
 **RobinQuanNguyen/RobinQuanNguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
