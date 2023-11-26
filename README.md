@@ -39,7 +39,7 @@ I'm interested in cloud ☁️ or full-stack development roles. If you're inters
 </div>
 
 ###😂 Random Quote
-<!--STARTS_HERE_QUOTE_README-->
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <!--ENDS_HERE_QUOTE_README-->
 
 
