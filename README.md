@@ -1,5 +1,6 @@
 ### 💫 About Me:
-I'm a student who thrives on solving tough problems. I enjoy adapting to different work environments, collaborating with diverse teams, and tackling complex technical issues. My expertise lies in cloud and full-stack development, combining practical skills with a strong academic background.
+I'm a student who thrives on solving tough problems🤔. I enjoy adapting to different work environments, collaborating with diverse teams![image](https://github.com/RobinQuanNguyen/RobinQuanNguyen/assets/127851332/33568e22-2ca0-499c-9651-d3cf104db2d9)
+, and tackling complex technical issues. My expertise lies in cloud and full-stack development, combining practical skills with a strong academic background.
 
 I derive fulfillment from the pursuit of solving intricate technical problems, continuously honing my skills through in-depth research and development tailored to unique requirements. Characterized by fast learning capabilities, I thrive in high-pressure situations and adhere to deadlines with precision. This adaptability enables me to seamlessly integrate into novel work environments, facilitating a swift attainment of peak performance in my professional endeavors.
 
