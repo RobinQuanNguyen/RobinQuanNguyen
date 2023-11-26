@@ -7,7 +7,8 @@ Throughout my academic journey, I have assumed diverse leadership responsibiliti
 
 I'm interested in cloud ☁️ or full-stack development roles. If you're intersted, feel free to get in touch with me via my email📩 at <a href="mailto:nguyenbaoquan2004@gmail.com">nguyenbaoquan2004@gmail.com</a>.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+### 👨‍💻 My Skills:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)]
 
 <!--
 **RobinQuanNguyen/RobinQuanNguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
